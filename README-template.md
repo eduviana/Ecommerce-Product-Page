@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/eduviana/loopstudios-landing-page-main)
+- Solution URL: (https://github.com/eduviana/Ecommerce-Product-Page)
 - Live Site URL: (https://loopstudios-landing-page-main-r8k6s4vrh-eduviana.vercel.app/)
 
 
